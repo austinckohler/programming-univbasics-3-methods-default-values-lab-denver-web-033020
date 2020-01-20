@@ -4,4 +4,6 @@ def meal_choices(veg1, veg2, protein = "meat")
 end
 
 meal_choices("spinach", "kale")
+meal_choices("carrots", "peppers", "steak")
+
 
